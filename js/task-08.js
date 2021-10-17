@@ -1,9 +1,4 @@
-
-
 const formRefs = document.querySelector('.login-form');
-
-
-
 
 formRefs.addEventListener("submit", handleSubmit);
 
